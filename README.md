@@ -8,7 +8,15 @@
 
   - Harvard cs50X
   - Codecademy Intermidiate javascript level
-      
+<h2> Skills </h2>  
+
+  - HTML
+  - CSS(Tailwindcss)
+  - Javascript
+  - React
+  - Redox
+  - Next.JS
+    
 <h2>📺 Popular YouTube Videos</h2>
 
 - [ProgrammingWithMosh](https://www.youtube.com/@programmingwithmosh)
@@ -20,6 +28,9 @@
 
 [instagram]: https://www.instagram.com/_rollaz_?igsh=MTdtZDFocDBybzZnNA==
 [linkedin]: https://www.linkedin.com/in/okechukwu-obileke-01a526287/
+<br>
+<br>
+Email: obilekekachi@gmail.com
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
