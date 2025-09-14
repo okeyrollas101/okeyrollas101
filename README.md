@@ -14,7 +14,7 @@
   - CSS(Tailwindcss)
   - Javascript
   - React
-  - Redox
+  - Redux
   - Next.JS
     
 <h2>📺 Popular YouTube Videos</h2>
